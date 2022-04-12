@@ -1,15 +1,6 @@
-<!-- - [:octocat: 首页](/README) -->
-
-- **超级架构师**
-    - [数据库模式](/Architect/数据库模式.md)
-    - [DevOps初学指南](/Architect/DevOps初学指南.md)
-    - [架构师定义、职业素质和应具备的能力](/Architect/架构师定义、职业素质和应具备的能力.md)
-- **涨薪秘籍**
-    - [1.5W字长文讲解分布式系统](/SalaryIncrease/1.5W字长文讲解分布式系统.md)
-    - [阿里巴巴10个顶级开源项目](/SalaryIncrease/阿里巴巴10个顶级开源项目.md)
-    
+<!-- - [:octocat: 首页](/README) -->   
 <!-- - :memo: 目录 -->
-- **Java**
+- **☕ Java**
     - [Java线程池源码解析](/Java/Java线程池源码解析.md)
     - [如何撸一个mini线程池](/Java/如何撸一个mini线程池.md)
     - [优雅的对象转换-MapStruct](/Java/优雅的对象转换-MapStruct.md)
@@ -21,20 +12,24 @@
     - [还在重复造轮子？hutool一键搞定](/Java/还在重复造轮子？hutool一键搞定.md)
     - [Java如何实现DistinctBy？](/Java/Java如何实现DistinctBy.md)
     - [一文看懂死锁](/Java/一文看懂死锁.md)
-- **操作系统**
-- **网络**
-- **算法**
+- **📝 架构师**
+    - [DevOps初学指南](/Architect/DevOps初学指南.md)
+    - [架构师定义、职业素质和应具备的能力](/Architect/架构师定义、职业素质和应具备的能力.md)
+- **☁ 开源推荐**
+    - [阿里巴巴10个顶级开源项目](/OpenSource/阿里巴巴10个顶级开源项目.md)
+- **✏ 算法**
     - [以五子棋为例硬撸稀疏数组](/Algorithm/以五子棋为例硬撸稀疏数组.md)
     - [撸一撸限流算法](/Algorithm/撸一撸限流算法.md)
-- **数据库**
+- **💾 数据库**
+    - [数据库模式](/Database/数据库模式.md)
     - [MySQL查看数据库容量](/Database/MySQL查看数据库容量.md)
-- **UML**
+- **📐 UML**
     - [设计模式（脑图版）](/UML/设计模式（脑图版）.md)
     - [UML统一建模语言](/UML/UML统一建模语言.md)
     - [UML类图](/UML/UML类图.md)
     - [程序员画图神器-PlantUml](/UML/程序员画图神器-PlantUml.md)
     - [系统架构设计核心要素（脑图版）](/UML/系统架构设计核心要素（脑图版）.md)
-- **架构设计**
+- **👑 架构设计**
     - **凤凰架构读书笔记**
         - [架构演进](/Architecture/Phoenix/凤凰架构读书笔记-架构演进.md)
         - [演示工程](/Architecture/Phoenix/凤凰架构读书笔记-演示工程.md)
@@ -50,11 +45,12 @@
     - [DDD系列第三讲：Repository模式](/Architecture/DDD/DDD系列第三讲：Repository模式.md)
     - [DDD系列第四讲：领域层设计规范](/Architecture/DDD/DDD系列第四讲：领域层设计规范.md)
     - [DDD系列第五讲：聊聊如何避免写流水账代码](/Architecture/DDD/DDD系列第五讲：聊聊如何避免写流水账代码.md)
-- **设计模式**
+    - [1.5W字长文讲解分布式系统](/Architecture/1.5W字长文讲解分布式系统.md)
+- **🎯 设计模式**
     - [七大设计原则](/DesignPattern/七大设计原则.md)
     - [23种设计模式](/DesignPattern/23种设计模式.md)
     - [状态模式之订单实战](/DesignPattern/状态模式之订单实战.md)
-- **实用技巧**
+- **🔧 实用技巧**
     - [如何用docsify改造你的Github-Pages](/Skill/如何用docsify改造你的Github-Pages.md)
     - [docsify进阶使用](/Skill/docsify进阶使用.md)
     - [Linux下安装MySQL8.0和重置密码](/Skill/Linux下安装MySQL8.0和重置密码.md)
@@ -63,12 +59,12 @@
     - [Sentinel快速接入](/Skill/Sentinel快速接入.md)
     - [Nacos快速接入](/Skill/Nacos快速接入.md)
     - [Markdown表情符号大全](/Skill/Markdown表情符号大全.md)
-- **开发规范**
+- **📘 开发规范**
     - [阿里巴巴Java开发手册](/Specification/阿里巴巴Java开发手册.md)
     - [MySQL数据库开发规范](/Specification/MySQL数据库开发规范.md)
     - [写JAVA的好习惯](/Specification/写JAVA的好习惯.md)
     - [写SQL的好习惯](/Specification/写SQL的好习惯.md)
-- **中间件**
+- **🚀 中间件**
     - [如何用RabbitMQ批处理能力优化服务](/Middleware/MQ/如何用RabbitMQ批处理能力优化服务.md)
     - [Redis事务](/Middleware/Redis/Redis事务.md)
     - [Redis持久化](/Middleware/Redis/Redis持久化.md)

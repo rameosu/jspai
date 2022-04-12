@@ -2,24 +2,13 @@
 
 # 📚 技术派：让技术传播更简单
 
-| Java        | 操作系统    | 网络        | 算法                | 数据库      | UML         | 架构设计    | 设计模式    | 实用技巧    | 开发规范     | 中间件              |
+| Java        | 架构师    | 开源推荐        | 算法                | 数据库      | UML         | 架构设计    | 设计模式    | 实用技巧    | 开发规范     | 中间件              |
 | ----------- | ----------- | ----------- | ------------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ------------ | ------------------- |
-| [☕](#nav-1) | [💻](#nav-1) | [☁️](#nav-3) | [✏️](#nav-4) | [💾](#nav-5) | [📐](#nav-6) | [👑](#nav-7) | [🎯](#nav-8) | [🔧](#nav-9) | [📘](#nav-10) | [🚀](#nav-10) |
+| [☕](#nav-1) | [📝](#nav-1) | [☁️](#nav-3) | [✏️](#nav-4) | [💾](#nav-5) | [📐](#nav-6) | [👑](#nav-7) | [🎯](#nav-8) | [🔧](#nav-9) | [📘](#nav-10) | [🚀](#nav-10) |
 
 ### 微信公众号：【技术派Go】
 
 ![wechat](assets/rameo/wechat.jpg)
-
-
-
-## 📝 超级架构师
-- [数据库模式](/Architect/数据库模式.md)
-- [DevOps初学指南](/Architect/DevOps初学指南.md)
-- [架构师定义、职业素质和应具备的能力](/Architect/架构师定义、职业素质和应具备的能力.md)
-
-## 💸 涨薪秘籍
-- [1.5W字长文讲解分布式系统](/SalaryIncrease/1.5W字长文讲解分布式系统.md)
-- [阿里巴巴10个顶级开源项目](/SalaryIncrease/阿里巴巴10个顶级开源项目.md)
 
 <span id="nav-1"></span>
 
@@ -38,10 +27,15 @@
 
 <span id="nav-2"></span>
 
-## 💻 操作系统
+## 📝 架构师
+- [DevOps初学指南](/Architect/DevOps初学指南.md)
+- [架构师定义、职业素质和应具备的能力](/Architect/架构师定义、职业素质和应具备的能力.md)
+
 <span id="nav-3"></span>
 
-## ☁️ 网络
+## ☁️ 开源推荐
+- [阿里巴巴10个顶级开源项目](/OpenSource/阿里巴巴10个顶级开源项目.md)
+
 <span id="nav-4"></span>
 
 ## ✏️ 算法
@@ -52,6 +46,7 @@
 <span id="nav-5"></span>
 
 ## 💾 数据库
+- [数据库模式](/Database/数据库模式.md)
 - [MySQL查看数据库容量](/Database/MySQL查看数据库容量.md)
 
 <span id="nav-6"></span>
@@ -79,6 +74,7 @@
 - [DDD系列第三讲：Repository模式](/Architecture/DDD/DDD系列第三讲：Repository模式.md)
 - [DDD系列第四讲：领域层设计规范](/Architecture/DDD/DDD系列第四讲：领域层设计规范.md)
 - [DDD系列第五讲：聊聊如何避免写流水账代码](/Architecture/DDD/DDD系列第五讲：聊聊如何避免写流水账代码.md)
+- [1.5W字长文讲解分布式系统](/Architecture/1.5W字长文讲解分布式系统.md)
 
 <span id="nav-8"></span>
 
@@ -106,7 +102,6 @@
 - [阿里巴巴Java开发手册](/Specification/阿里巴巴Java开发手册.md)
 - [MySQL数据库开发规范](/Specification/MySQL数据库开发规范.md)
 - [写JAVA的好习惯](/Specification/写JAVA的好习惯.md)
-- [写SQL的好习惯](/Specification/写SQL的好习惯.md)
 - [写SQL的好习惯](/Specification/写SQL的好习惯.md)
 
 <span id="nav-11"></span>

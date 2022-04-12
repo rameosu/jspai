@@ -17,4 +17,5 @@
     - [DDD系列第三讲：Repository模式](/Architecture/DDD/DDD系列第三讲：Repository模式.md)
     - [DDD系列第四讲：领域层设计规范](/Architecture/DDD/DDD系列第四讲：领域层设计规范.md)
     - [DDD系列第五讲：聊聊如何避免写流水账代码](/Architecture/DDD/DDD系列第五讲：聊聊如何避免写流水账代码.md)
+    - [1.5W字长文讲解分布式系统](/Architecture/1.5W字长文讲解分布式系统.md)
 
