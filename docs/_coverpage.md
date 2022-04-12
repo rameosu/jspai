@@ -4,6 +4,6 @@
 
 ## 📚 技术派：让技术传播更简单
 
-[GitHub](<https://github.com/rameosu/java3c>)
+[GitHub](<https://github.com/rameosu/技术派>)
 [开始阅读](README.md)
 

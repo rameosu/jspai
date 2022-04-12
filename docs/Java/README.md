@@ -1,6 +1,5 @@
-# 📚 Java开发、架构师升职加薪必备
-![logo](../assets/rameo/logo.png)
-![poster](../assets/rameo/poster.jpg)
+# 📚 技术派：让技术传播更简单
+![banner](../assets/rameo/jspai.jpg)
 
 ## ☕ Java基础
 - [Java线程池源码解析](/Java/Java线程池源码解析.md)
@@ -14,3 +13,4 @@
 - [还在重复造轮子？hutool一键搞定](/Java/还在重复造轮子？hutool一键搞定.md)
 - [Java如何实现DistinctBy？](/Java/Java如何实现DistinctBy.md)
 - [一文看懂死锁](/Java/一文看懂死锁.md)
+

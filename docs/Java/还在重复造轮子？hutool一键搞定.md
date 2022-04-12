@@ -1,9 +1,9 @@
 # 还在重复造轮子？duck不必，hutool一键搞定👍
 
 ## 一、前言
-Hello 大家好，我是`java3c`，今天给大家分享一个国产开源的顶级项目，Java开发的利器👉【Hutool】。
+Hello 大家好，我是`技术派`，今天给大家分享一个国产开源的顶级项目，Java开发的利器👉【Hutool】。
 
-> 本文已收录到 [Github-java3c](https://github.com/rameosu/java3c) ，里面有我的系列文章，欢迎大家Star。
+> 本文已收录到 [Github-技术派](https://github.com/rameosu/技术派) ，里面有我的系列文章，欢迎大家Star。
 
 ## 二、Hutool简介
 

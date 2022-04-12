@@ -1,6 +1,5 @@
-# 📚 Java开发、架构师升职加薪必备
-![logo](../assets/rameo/logo.png)
-![poster](../assets/rameo/poster.jpg)
+# 📚 技术派：让技术传播更简单
+![banner](../assets/rameo/jspai.jpg)
 
 ## 🚀 中间件
 - [如何用RabbitMQ批处理能力优化服务](/Middleware/MQ/如何用RabbitMQ批处理能力优化服务.md)

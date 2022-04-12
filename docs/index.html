@@ -132,7 +132,7 @@
                             .replace(/\/main/, "/blob/main");
                     } else {
                         url =
-                            "https://github.com/rameosu/java3c/tree/main/docs/" +
+                            "https://github.com/rameosu/jspai/tree/main/docs/" +
                             vm.route.file;
                     }
                     const github = `[GitHub](${url})`;
@@ -153,13 +153,13 @@
                     //     <table>
                     //         <tr>
                     //           <td align="center" style="width: 200px;">
-                    //             <a href="https://rameosu.github.io/java3c">
+                    //             <a href="https://rameosu.github.io/技术派">
                     //               <img src="./assets/rameo/wechat_pay.jpg" style="width: 400px;"><br>
                     //               <sub>微信扫码打赏</sub>
                     //             </a><br>
                     //           </td>
                     //           <td align="center" style="width: 200px;">
-                    //             <a href="https://rameosu.github.io/java3c">
+                    //             <a href="https://rameosu.github.io/技术派">
                     //               <img src="./assets/rameo/wechat_qrcode.jpg" style="width: 400px;"><br>
                     //               <sub>个人微信</sub>
                     //             </a><br>
@@ -169,18 +169,18 @@
                     // `;
                     const subscription = `
                         <h2>🎁 访问官网</h2>
-                        （1）直接访问：https://www.jspai.cc
+                        （1）直接访问：<a href="https://www.jspai.cc" target="_blank">https://www.jspai.cc</a>
                         </br>
                         （2）扫描下方二维码
                         </br>
                         <img src="./assets/rameo/qrcode.png"><br>
                     `;
-                    return editHtml + content + `<br>` + subscription;
+                    return editHtml + content + `<span>` + subscription;
                 });
                 hook.afterEach(function (html) {
                     const footer = [
                         "<footer style='text-align: center;'>",
-                        '<span>Copyright © 2021-2024 <a href="https://github.com/rameosu/java3c" target="_blank">Java3C</a>. All rights reserved.',
+                        '<span>Copyright © 2021-2024 <a href="https://www.jspai.cc" target="_blank">技术派</a>. All rights reserved.',
                         "</footer>",
                     ].join("");
                     return html + footer;
