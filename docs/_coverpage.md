@@ -1,8 +1,8 @@
-![logo](assets/rameo/logo.png)
+![logo](assets/rameo/jsp.jpg)
 
-# JAVA3C 
+# 技术派（jspai.cc）
 
-## 📚 Java开发、架构师升职加薪必备
+## 📚 技术派：让技术传播更简单
 
 [GitHub](<https://github.com/rameosu/java3c>)
 [开始阅读](README.md)
