@@ -13,4 +13,6 @@
 - [还在重复造轮子？hutool一键搞定](/Java/还在重复造轮子？hutool一键搞定.md)
 - [Java如何实现DistinctBy？](/Java/Java如何实现DistinctBy.md)
 - [一文看懂死锁](/Java/一文看懂死锁.md)
+- [一文吃透Fork/Join框架](/Java/一文吃透ForkJoin框架.md)
+- [巧用并行流，效率快十倍](/Java/巧用并行流，效率快十倍.md)
 

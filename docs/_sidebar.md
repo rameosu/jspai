@@ -12,12 +12,15 @@
     - [还在重复造轮子？hutool一键搞定](/Java/还在重复造轮子？hutool一键搞定.md)
     - [Java如何实现DistinctBy？](/Java/Java如何实现DistinctBy.md)
     - [一文看懂死锁](/Java/一文看懂死锁.md)
+    - [一文吃透Fork/Join框架](/Java/一文吃透ForkJoin框架.md)
+    - [巧用并行流，效率快十倍](/Java/巧用并行流，效率快十倍.md)
 - **📝 架构师**
     - [DevOps初学指南](/Architect/DevOps初学指南.md)
     - [架构师定义、职业素质和应具备的能力](/Architect/架构师定义、职业素质和应具备的能力.md)
-- **☁ 开源推荐**
+    - [浅谈微服务中的那些设计模式](/Architect/浅谈微服务中的那些设计模式.md)
+- **☁️ 开源推荐**
     - [阿里巴巴10个顶级开源项目](/OpenSource/阿里巴巴10个顶级开源项目.md)
-- **✏ 算法**
+- **✏️ 算法**
     - [以五子棋为例硬撸稀疏数组](/Algorithm/以五子棋为例硬撸稀疏数组.md)
     - [撸一撸限流算法](/Algorithm/撸一撸限流算法.md)
 - **💾 数据库**
@@ -65,6 +68,7 @@
     - [写JAVA的好习惯](/Specification/写JAVA的好习惯.md)
     - [写SQL的好习惯](/Specification/写SQL的好习惯.md)
 - **🚀 中间件**
+    - [消息队列快速通关](/Middleware/MQ/消息队列快速通关.md)
     - [如何用RabbitMQ批处理能力优化服务](/Middleware/MQ/如何用RabbitMQ批处理能力优化服务.md)
     - [Redis事务](/Middleware/Redis/Redis事务.md)
     - [Redis持久化](/Middleware/Redis/Redis持久化.md)

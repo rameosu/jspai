@@ -2,6 +2,7 @@
 ![banner](../assets/rameo/jspai.jpg)
 
 ## 🚀 中间件
+- [消息队列快速通关](/Middleware/MQ/消息队列快速通关.md)
 - [如何用RabbitMQ批处理能力优化服务](/Middleware/MQ/如何用RabbitMQ批处理能力优化服务.md)
 - [Redis事务](/Middleware/Redis/Redis事务.md)
 - [Redis持久化](/Middleware/Redis/Redis持久化.md)

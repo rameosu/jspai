@@ -26,12 +26,15 @@
 - [还在重复造轮子？hutool一键搞定](https://rameosu.github.io/jspai/#/Java/还在重复造轮子？hutool一键搞定.md)
 - [Java如何实现DistinctBy？](https://rameosu.github.io/jspai/#/Java/Java如何实现DistinctBy.md)
 - [一文看懂死锁](https://rameosu.github.io/jspai/#/Java/一文看懂死锁.md)
+- [一文吃透Fork/Join框架](https://rameosu.github.io/jspai/#/Java/一文吃透ForkJoin框架.md)
+- [巧用并行流，效率快十倍](https://rameosu.github.io/jspai/#/Java/巧用并行流，效率快十倍.md)
 
 <span id="nav-2"></span>
 
 ## 📝 架构师
 - [DevOps初学指南](https://rameosu.github.io/jspai/#/Architect/DevOps初学指南.md)
 - [架构师定义、职业素质和应具备的能力](https://rameosu.github.io/jspai/#/Architect/架构师定义、职业素质和应具备的能力.md)
+- [浅谈微服务中的那些设计模式](https://rameosu.github.io/jspai/#/Architect/浅谈微服务中的那些设计模式.md)
 
 <span id="nav-3"></span>
 
@@ -110,6 +113,7 @@
 <span id="nav-11"></span>
 
 ## 🚀 中间件
+- [消息队列快速通关](https://rameosu.github.io/jspai/#/Middleware/MQ/消息队列快速通关.md)
 - [如何用RabbitMQ批处理能力优化服务](https://rameosu.github.io/jspai/#/Middleware/MQ/如何用RabbitMQ批处理能力优化服务.md)
 - [Redis事务](https://rameosu.github.io/jspai/#/Middleware/Redis/Redis事务.md)
 - [Redis持久化](https://rameosu.github.io/jspai/#/Middleware/Redis/Redis持久化.md)
