@@ -1,2 +1,3 @@
- [阿里巴巴Java开发手册（泰山版）.pdf](https://rameosu.github.io/rameo/assets/specification/Java开发手册（泰山版）.pdf) 
+## 下载地址
+ [阿里巴巴Java开发手册](https://www.jspai.cc/ebook) 
 
