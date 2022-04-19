@@ -1,5 +1,4 @@
-# 📚 技术派：让技术传播更简单
-![banner](../assets/rameo/jspai.jpg)
+![banner](../../assets/rameo/jspai.jpg)
 
 ## 🔧 实用技巧
 - [如何用docsify改造你的Github-Pages](/Skill/如何用docsify改造你的Github-Pages.md)

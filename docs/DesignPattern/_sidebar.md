@@ -1,5 +1,4 @@
-# 📚 技术派：让技术传播更简单
-![banner](../assets/rameo/jspai.jpg)
+![banner](../../assets/rameo/jspai.jpg)
 
 ## 🎯 设计模式
 - [七大设计原则](/DesignPattern/七大设计原则.md)
