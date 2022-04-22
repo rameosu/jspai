@@ -12,3 +12,6 @@
     - [Redis热key的发现与解决](/Middleware/Redis/Redis热key的发现与解决.md)
     - [Redis内存淘汰策略和过期键清除策略](/Middleware/Redis/Redis内存淘汰策略和过期键清除策略.md)
     - [Redisson分布式锁的AOP实现](/Middleware/Redis/Redisson分布式锁的AOP实现.md)
+- **ES**
+  - [全文检索快速通关](/Middleware/ES/全文检索快速通关.md)
+

@@ -135,7 +135,8 @@
     - [Redis热key的发现与解决](https://rameosu.github.io/jspai/#/Middleware/Redis/Redis热key的发现与解决.md)
     - [Redis内存淘汰策略和过期键清除策略](https://rameosu.github.io/jspai/#/Middleware/Redis/Redis内存淘汰策略和过期键清除策略.md)
     - [Redisson分布式锁的AOP实现](https://rameosu.github.io/jspai/#/Middleware/Redis/Redisson分布式锁的AOP实现.md)
-
+- **ES**
+    - [全文检索快速通关](https://rameosu.github.io/jspai/#/Middleware/ES/全文检索快速通关.md)
 
 ## 👉官方网站
 
