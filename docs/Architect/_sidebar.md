@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## 📝 架构师
 - [DevOps初学指南](/Architect/DevOps初学指南.md)

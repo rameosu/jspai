@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## 📘 开发规范
 - [阿里巴巴Java开发手册](/Specification/阿里巴巴Java开发手册.md)

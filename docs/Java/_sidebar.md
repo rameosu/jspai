@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## ☕ Java基础
 - **基础**

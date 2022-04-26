@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## 📐 UML
 - [设计模式（脑图版）](/UML/设计模式（脑图版）.md)

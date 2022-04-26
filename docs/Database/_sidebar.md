@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## 💾 数据库
 - [数据库模式](/Database/数据库模式.md)

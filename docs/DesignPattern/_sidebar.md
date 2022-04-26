@@ -1,4 +1,4 @@
-![banner](../../assets/rameo/jspai.jpg)
+![banner](https://rameosu.github.io/jspai/assets/rameo/jspai.jpg)
 
 ## 🎯 设计模式
 - [七大设计原则](/DesignPattern/七大设计原则.md)
