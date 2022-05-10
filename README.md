@@ -58,6 +58,7 @@
 ## 💾 数据库
 - [数据库模式](https://rameosu.github.io/jspai/#/Database/数据库模式.md)
 - [MySQL查看数据库容量](https://rameosu.github.io/jspai/#/Database/MySQL查看数据库容量.md)
+- [Mysql中的日志](https://rameosu.github.io/jspai/#/Database/Mysql中的日志.md)
 
 <span id="nav-6"></span>
 ## 📐 UML
