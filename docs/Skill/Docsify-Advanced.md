@@ -1,6 +1,6 @@
 # docsify进阶使用
 
-在上一篇[《如何用docsify改造你的Github-Pages》](./如何用docsify改造你的Github-Pages.md)中给大家介绍了docsify的基本使用和GitHub Pages的结合使用，这篇文章主要介绍docsify更多的功能，让你的个人主页更漂亮。
+在上一篇[《如何用docsify改造你的Github-Pages》](Docsify-Github-Pages.md)中给大家介绍了docsify的基本使用和GitHub Pages的结合使用，这篇文章主要介绍docsify更多的功能，让你的个人主页更漂亮。
 
 先放个整体图，看下有哪些好玩的东西🧐🧐
 

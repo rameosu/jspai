@@ -62,7 +62,7 @@ mindmapDiagram {
 *** 存在的意义主要是降低对数据也刷盘的要求
 *** 保证事务持久性
 *** 主要用于崩溃恢复（Crash-Safe）
-*** Write Ahead Logging（WAL）：预写式日志，比数据也先刷回磁盘
+*** Write Ahead Logging（WAL）：预写式日志，比数据页先刷回磁盘
 *** 刷盘过程
 **** 用户空间（User Space）无法直接将redo log buffer写入磁盘
 **** 先写入到操作系统内核空间（Kernel Space）的缓冲区（OS Buffer）
