@@ -112,6 +112,8 @@
 - [Sentinel快速接入](https://rameosu.github.io/jspai/#/Skill/Sentinel-Quick-Use.md)
 - [Nacos快速接入](https://rameosu.github.io/jspai/#/Skill/Nacos-Quick-Use.md)
 - [Markdown表情符号大全](https://rameosu.github.io/jspai/#/Skill/Markdown-Emoji.md)
+- [Git骚操作](https://rameosu.github.io/jspai/#/Skill/Git-Config.md)
+- [IDEA激活方法](https://rameosu.github.io/jspai/#/Skill/IDEA-Activate.md)
 
 <span id="nav-10"></span>
 

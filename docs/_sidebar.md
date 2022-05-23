@@ -70,6 +70,8 @@
     - [Sentinel快速接入](/Skill/Sentinel-Quick-Use.md)
     - [Nacos快速接入](/Skill/Nacos-Quick-Use.md)
     - [Markdown表情符号大全](/Skill/Markdown-Emoji.md)
+    - [Git骚操作](/Skill/Git-Config.md)
+    - [IDEA激活方法](/Skill/IDEA-Activate.md)
 - **📘 开发规范**
     - [阿里巴巴Java开发手册](/Specification/Ali-Java-Specification.md)
     - [MySQL数据库开发规范](/Specification/MySQL-Specification.md)

@@ -108,6 +108,8 @@
 - [Sentinel快速接入](/Skill/Sentinel-Quick-Use.md)
 - [Nacos快速接入](/Skill/Nacos-Quick-Use.md)
 - [Markdown表情符号大全](/Skill/Markdown-Emoji.md)
+- [Git骚操作](/Skill/Git-Config.md)
+- [IDEA激活方法](/Skill/IDEA-Activate.md)
 
 <span id="nav-10"></span>
 
