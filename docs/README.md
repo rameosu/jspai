@@ -110,6 +110,8 @@
 - [Markdown表情符号大全](/Skill/Markdown-Emoji.md)
 - [Git骚操作](/Skill/Git-Config.md)
 - [IDEA激活方法](/Skill/IDEA-Activate.md)
+- [Navicat Premium 16激活教程](/Skill/Navicat-Activate.md)
+- [Centos8安装Mysql5.7详细教程](/Skill/CentOs8-MySQL57.md)
 
 <span id="nav-10"></span>
 

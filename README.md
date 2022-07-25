@@ -114,6 +114,8 @@
 - [Markdown表情符号大全](https://rameosu.github.io/jspai/#/Skill/Markdown-Emoji.md)
 - [Git骚操作](https://rameosu.github.io/jspai/#/Skill/Git-Config.md)
 - [IDEA激活方法](https://rameosu.github.io/jspai/#/Skill/IDEA-Activate.md)
+- [Navicat Premium 16激活教程](https://rameosu.github.io/jspai/#/Skill/Navicat-Activate.md)
+- [Centos8安装Mysql5.7详细教程](https://rameosu.github.io/jspai/#/Skill/CentOs8-MySQL57.md)
 
 <span id="nav-10"></span>
 

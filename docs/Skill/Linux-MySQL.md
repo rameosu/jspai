@@ -66,17 +66,17 @@ mysql> create user 'root'@'%' identified by '新密码';
  mysql> grant all privileges on *.* to 'root'@'%' with grant option;                                  
  ```
 
-            ```sql
-            mysql> ALTER USER 'root'@'%' IDENTIFIED BY '新密码' PASSWORD EXPIRE NEVER;                                  
-            ```
+```sql
+mysql> ALTER USER 'root'@'%' IDENTIFIED BY '新密码' PASSWORD EXPIRE NEVER;
+```
 
-          ```sql
-          ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '新密码';  
-          ```
+```sql
+mysql> ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '新密码';  
+```
 
-                             ```sql
-                             mysql> FLUSH PRIVILEGES;                    
-                             ```
+```sql
+mysql> FLUSH PRIVILEGES;   
+```
 
 
 
@@ -133,7 +133,10 @@ mysql> ALTER USER 'root'@'%' IDENTIFIED BY '新密码' PASSWORD EXPIRE NEVER;
 ```shell
 mysql> ALTER USER 'root'@'%' IDENTIFIED WITH mysql_native_password BY '新密码';
 ```
+
 使改动生效
-```shell
+
+```sql
 mysql> FLUSH PRIVILEGES;
 ```
+
