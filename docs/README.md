@@ -112,6 +112,7 @@
 - [IDEA激活方法](/Skill/IDEA-Activate.md)
 - [Navicat Premium 16激活教程](/Skill/Navicat-Activate.md)
 - [Centos8安装Mysql5.7详细教程](/Skill/CentOs8-MySQL57.md)
+- [Typora激活教程](/Skill/Typora-Activate.md)
 
 <span id="nav-10"></span>
 
